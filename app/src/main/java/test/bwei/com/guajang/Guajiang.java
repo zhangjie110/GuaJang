@@ -77,7 +77,7 @@ public class Guajiang extends View {
 
     @Override
     protected void onDraw(Canvas canvas) {
-        canvas.drawBitmap(mBackBitmap, 0, 0, null);
+
         drawPath();
         canvas.drawBitmap(mBitmap, 0, 0, null);
 

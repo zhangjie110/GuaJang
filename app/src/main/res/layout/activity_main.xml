@@ -9,6 +9,10 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="test.bwei.com.guajang.MainActivity">
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/ab"/>
     <test.bwei.com.guajang.Guajiang
         android:layout_width="match_parent"
         android:layout_height="match_parent"
